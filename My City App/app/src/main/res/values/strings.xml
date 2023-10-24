@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">City Guide</string>
+    <string name="power_by">Pheakdey Luk</string>
+    <string name="slogan_name">Everything your city holds!</string>
+    <string name="logo_name">Get A Way</string>
+
+    <!--     General Menu names     -->
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="all_places">ALL PLACES TO VISIT</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_missing_place">ADD MISSING PLACE</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="e_commerce">Shopping E-commerce </string>
+    <string name="script">Run Script </string>
+    <string name="food_delivery">Food Delivery </string>
+    <string name="taxi">Taxi </string>
+
+    <!--     All Categories Menu names     -->
+    <string name="expand_all">Expand All</string>
+    <string name="car_rent">Car Rent</string>
+    <string name="all_shops">All Shops</string>
+
+    <!--  Titles and Descriptions  -->
+    <string name="featured_locations">All Featured Locations</string>
+    <string name="featured_locations_description">All the locations that are featured and have the top demand in town!</string>
+    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+
+    <!--  Categories  -->
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="airports">Airports</string>
+    <string name="education">Education</string>
+    <string name="hospitals">Hospitals</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    <!--  General Strings  -->
+    <string name="sign_up">Sign Up</string>
+    <string name="heading">Enjoy\nTraveling</string>
+    <string name="tag_line">Provider the best location</string>
+    <string name="create_account">Create\nAccount</string>
+    <string name="how_we_work">How we work?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+
+    <!--  Field Strings  -->
+    <string name="enter_first_name">First Name</string>
+    <string name="enter_last_name">Last Name</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_phone_number">Phone Number</string>
+    <string name="enter_password">Password</string>
+    <string name="title_activity_all_places">AllPlacesActivity</string>
+
+    <string name="hello_world">Hello Square World!</string>
+    <string name="personal">  Contact </string>
+</resources>
